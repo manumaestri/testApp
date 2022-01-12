@@ -1,12 +1,13 @@
-# testApp
+# testApp for Fligoo
 
 ## Build Setup
 
 ```bash
-# install dependencies
+
+# Para instalar dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# Usar para deploy dev
 $ yarn dev
 
 # build for production and launch server
